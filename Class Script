@@ -1,0 +1,24 @@
+;
+; AutoHotkey Version: 1.x
+; Language:       English
+; Platform:       Win9x/NT
+; Author:         huh2@rose-hulman.edu
+;
+; Script Function:
+;	Template script (you can customize this template by editing "ShellNew\Template.ahk" in your Windows folder)
+;
+
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+F3::
+Send 1442{enter}
+return
+
+F2::
+Send 2346{tab}2410{tab}2104{tab}2425{enter}
+return
+
+F1::
+send 539997{enter}
+return
