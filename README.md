@@ -1,4 +1,4 @@
-# RoseHulmanCourseRegScript
+# CourseRegScript
 CourseReg Script
 Please download current verison of autohotkey  
 Link: https://www.autohotkey.com/  
